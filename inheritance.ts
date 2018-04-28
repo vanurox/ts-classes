@@ -29,6 +29,8 @@ student.age = 20;
 student.name = "Divanshu";
 console.log(student.getFullDetail());
 
+
+
 // let teacher = new Teacher();
 // teacher.age = 28;
 // teacher.name = "Varun";
